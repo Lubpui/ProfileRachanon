@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(241, 189, 189);
+}
+.top{
+    background-color: #f8e6d4;
+}
+/* กำหนดสีของสีและขนาดข้อความของ h1 */
+h1{ 
+    text-align: center;
+    color: rgb(247, 130, 130);
+    text-shadow: 0em 0em 0.5em #fc5f5f,0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff;
+    font-size: 72px;
+}
+/* กำหนดสีของสีและขนาดข้อความของ h2 */
+h2{
+    text-align: center;
+    color: rgb(247, 130, 130);
+    text-shadow: 0em 0em 0.5em #fc5f5f,0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff;
+    font-size: 72px;
+}
+/* กำหนดสีของสีและขนาดข้อความของ h3 */
+h3{
+    text-align: center;
+    color: rgb(247, 130, 130);
+    text-shadow: 0em 0em 0.5em #fc5f5f,0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff;
+    font-size: 24px;
+}
+/* กำหนดสีของสีและขนาดข้อความของ h4 */
+h4{
+    text-align: center;
+    color: rgb(247, 130, 130);
+    text-shadow: 0em 0em 0.5em #fc5f5f,0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff;
+    font-size: 40px;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+th{
+    width: 25%; 
+    vertical-align: top;
+}
+/* กำหนดสีของสีและขนาดข้อความของ h5 */
+h5{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 0em 0em 0.5em #fc5f5f,0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff;
+    font-size: 40px;
+}
+/* กำหนดสีของสีและขนาดข้อความของ p */ 
+p{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 0em 0em 0.5em #f39e9e,0em 0em 0.5em #fcfcfc,0em 0em 0.5em #fefcff;
+    font-size: 20px;
+}
+/* กำหนดสีพื้นหลังของmenuเวลาclick */
+.table-menu td:hover{
+    background-color: rgb(255, 5, 5);
+}
